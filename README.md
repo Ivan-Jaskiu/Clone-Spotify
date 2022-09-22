@@ -1,6 +1,6 @@
 # Clone Spotify
 
-![preview](./spotfy/.github/spotify.png)
+![preview](./spotify/.github/spotify.png)
 
 Projeto construido com ajuda da(@DankiCode)
 
