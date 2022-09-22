@@ -4,7 +4,7 @@
 
 Projeto construido com ajuda da(@DankiCode)
 
-[Clique aqui para acessar](https://ivan-jaskiu.github.io/Spotify/index.html)
+[Clique aqui para acessar](https://ivan-jaskiu.github.io/Spotify/spotfy/index.html)
 
 # Tecnologia
 - HTML
