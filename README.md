@@ -4,7 +4,7 @@
 
 Projeto construido com ajuda da(@DankiCode)
 
-[Clique aqui para acessar](https://ivan-jaskiu.github.io/Spotify/Spotify/index.html)
+[Clique aqui para acessar](https://ivan-jaskiu.github.io/Spotify/spotify/js/index.html)
 
 # Tecnologia
 - HTML
